@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Oct  7 19:48:06 2021
+# Process ID: 95712
+# Current directory: /home/gui/work/ped/vivado/project_3/project_3.runs/impl_1
+# Command line: vivado -log clock.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source clock.tcl -notrace
+# Log file: /home/gui/work/ped/vivado/project_3/project_3.runs/impl_1/clock.vdi
+# Journal file: /home/gui/work/ped/vivado/project_3/project_3.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source clock.tcl -notrace

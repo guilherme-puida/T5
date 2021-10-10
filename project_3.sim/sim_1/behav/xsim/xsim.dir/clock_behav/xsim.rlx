@@ -1,0 +1,12 @@
+
+{ 
+    crc :  2187043581725680437  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto c5e0958d6a8e4f3ea91c86a6fff04ecf --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot clock_behav xil_defaultlib.clock" , 
+    buildDate : "Nov 18 2020" , 
+    buildTime : "09:20:35" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/clock_behav/xsimk\"   \"xsim.dir/clock_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/clock_behav/obj/xsim_1.lnx64.o\" -L\"/tools/Xilinx/Vivado/2020.2/lib/lnx64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
